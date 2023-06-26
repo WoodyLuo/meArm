@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For meArm library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+meArm	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+goDirectlyTo	KEYWORD2
+setAngleX	KEYWORD2
+setAngleY	KEYWORD2
+setAngleZ	KEYWORD2
+setAngleG	KEYWORD2
+getX	KEYWORD2
+getY	KEYWORD2
+getZ	KEYWORD2
+getG	KEYWORD2
